@@ -2,7 +2,7 @@
 <h3 align="center">🌍 Location: Luthania 🇱🇹, currently residing in Dubai 🇦🇪 🎮 Passionate about gaming and game development About Me Greetings!, backend/developer also i can make a cloud service, also working for projects that's releative to fortnite😀</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gammadev&label=Profile%20views&color=0e75b6&style=flat" alt="gammadev" /> </p>
-
+.
 <p align="left"> <a href="https://twitter.com/gamma1dev" target="blank"><img src="https://img.shields.io/twitter/follow/gamma1dev?logo=twitter&style=for-the-badge" alt="gamma1dev" /></a> </p>
 
 - working at [@endra fortnite](https://discord.gg/UEyK48C9)
